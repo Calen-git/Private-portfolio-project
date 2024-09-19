@@ -1,6 +1,6 @@
 # Projects
 
-==============
+============
 
 - Collaborate with teammates in a fast paced, meticulous environment in order to provide exceptional product and service to clients (working at Mcdonald's)
 
