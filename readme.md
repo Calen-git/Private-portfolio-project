@@ -17,8 +17,8 @@ Here's how to contribute to the project!
 
 - Step five: Once you're ready, save your changes. If you're on mac, use command+s. On windows, use control+s.
 
-- step six: use /git add . to stage your changes.
+- Step six: use /git add . to stage your changes.
 
-- step seven: use /git commit -m "commit message here" to commit your changes.
+- Step seven: use /git commit -m "commit message here" to commit your changes.
 
-- step seven: push your new branch to the remote repository by using /git push origin branch-name
+- Step seven: push your new branch to the remote repository by using /git push origin branch-name
