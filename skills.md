@@ -1,4 +1,4 @@
-# skills
+# Skills
 
 - Collaboration
 - Fast-paced physical work
